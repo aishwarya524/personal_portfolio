@@ -14,7 +14,7 @@ const header = () => {
         <CallToAction />
         <HeaderSocials />
         <div className='me'>
-          <img src={photo} alt='photo-img' className='photo-img'/>
+          <img src={photo} alt='photo-me' className='photo-img'/>
         </div>
         <a href='#contact' className='scroll_down'>Scroll Down</a>
       </div>
