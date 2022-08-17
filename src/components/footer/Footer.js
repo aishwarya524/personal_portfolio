@@ -1,9 +1,12 @@
 import React from 'react'
 import './Footer.css'
+import {MdCopyright} from 'react-icons/md'
 
 const footer = () => {
   return (
-    <div>footer</div>
+   <footer>
+      <p>Copyright <MdCopyright/> 2022, Aishwarya</p>
+   </footer>
   )
 }
 
