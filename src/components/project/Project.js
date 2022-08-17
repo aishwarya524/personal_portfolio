@@ -20,7 +20,7 @@ const project = () => {
           </div>
           <h3>Personal portfolio</h3>
           <div className='project-item-cta'>
-          <a href='https://github.com/aishwarya524/personal_portfolio' className='btn'>Live project</a>
+          <a href='https://comfy-fairy-32bc0e.netlify.app/' className='btn'>Live project</a>
           <a href='https://github.com/aishwarya524/personal_portfolio' className='btn btn-primary'>View code</a>
           </div>
         </article>
