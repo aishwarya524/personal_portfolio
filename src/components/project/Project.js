@@ -16,7 +16,7 @@ const project = () => {
       <div className='container project-container'>
         <article className='project-item'>
           <div className='item-img'>
-            <img src={portfolio} alt='item-img' className='project-img' alt='image1'/>
+            <img src={portfolio} alt='item-img1' className='project-img'/>
           </div>
           <h3>Personal portfolio</h3>
           <div className='project-item-cta'>
@@ -26,7 +26,7 @@ const project = () => {
         </article>
         <article className='project-item'>
           <div className='item-img'>
-            <img src={news_app} alt='item-img' className='project-img' alt='image2'/>
+            <img src={news_app} alt='item-img2' className='project-img'/>
           </div>
           <h3>News app</h3>
           <div className='project-item-cta'>
@@ -36,7 +36,7 @@ const project = () => {
         </article>
         <article className='project-item'>
           <div className='item-img'>
-            <img src={frontend_portfolio} alt='item-img' className='project-img' alt='image3'/>
+            <img src={frontend_portfolio} alt='item-img3' className='project-img'/>
           </div>
           <h3>Frontend project portfolio</h3>
           <div className='project-item-cta'>
@@ -46,7 +46,7 @@ const project = () => {
         </article>
         <article className='project-item'>
           <div className='item-img'>
-            <img src={shopping_app} alt='item-img' className='project-img' alt='image4'/>
+            <img src={shopping_app} alt='item-img4' className='project-img'/>
           </div>
           <h3>Shopping app</h3>
           <div className='project-item-cta'>
@@ -56,7 +56,7 @@ const project = () => {
         </article>
         <article className='project-item'>
           <div className='item-img'>
-            <img src={task_manager} alt='item-img' className='project-img' alt='image5'/>
+            <img src={task_manager} alt='item-img5' className='project-img'/>
           </div>
           <h3>Task manager</h3>
           <div className='project-item-cta'>
@@ -66,7 +66,7 @@ const project = () => {
         </article>
         <article className='project-item'>
           <div className='item-img'>
-            <img src={sudoku} alt='item-img' className='project-img' alt='image6'/>
+            <img src={sudoku} alt='item-img6' className='project-img'/>
           </div>
           <h3>Sudoku</h3>
           <div className='project-item-cta'>
@@ -75,7 +75,7 @@ const project = () => {
         </article>
         <article className='project-item'>
           <div className='item-img'>
-            <img src={pong} alt='item-img' className='project-img' alt='image7'/>
+            <img src={pong} alt='item-img7' className='project-img'/>
           </div>
           <h3>Pong game</h3>
           <div className='project-item-cta'>
