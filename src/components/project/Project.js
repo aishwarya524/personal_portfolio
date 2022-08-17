@@ -20,8 +20,8 @@ const project = () => {
           </div>
           <h3>Personal portfolio</h3>
           <div className='project-item-cta'>
-          <a href='' className='btn'>Live project</a>
-          <a href='' className='btn btn-primary'>View code</a>
+          <a href='https://github.com/aishwarya524/personal_portfolio' className='btn'>Live project</a>
+          <a href='https://github.com/aishwarya524/personal_portfolio' className='btn btn-primary'>View code</a>
           </div>
         </article>
         <article className='project-item'>
