@@ -1,7 +1,6 @@
 import React from 'react'
 import './About.css'
 import CV from '../../assets/Aishwarya\'s Resume.pdf';
-import CallToAction from './../header/CallToAction';
 
 const About = () => {
   return (
