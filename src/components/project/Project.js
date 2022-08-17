@@ -1,6 +1,6 @@
 import React from 'react'
 import './Project.css'
-import portfolio from '../../assets/frontend-portfolio.png'
+import portfolio from '../../assets/portfolio.png'
 import frontend_portfolio from '../../assets/frontend-portfolio.png'
 import news_app from '../../assets/news-app.png'
 import shopping_app from '../../assets/shopping-app.png'
