@@ -1,0 +1,18 @@
+.about{
+    font-size: larger;
+    padding: 1rem;
+}
+
+.about-info{
+    display: flex;
+    font-size: 17px;
+    padding: 2rem;
+}
+
+.about-title{
+    padding-right: 3rem;
+}
+
+.info{
+    text-align: left;
+}
